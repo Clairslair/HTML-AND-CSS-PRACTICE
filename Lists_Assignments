@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Organzied vs Unorganized</title>
+</head>
+<body>
+<ol> 
+      <li>Light Bill</li>
+      <li>Gas Bill</li>
+      <li>Car Note</li>
+      <li>Eletric Bill</li>
+      <li>Insurance Bill</li>
+ </ol>
+ 
+ <ul>
+      <li>Bike</li>
+      <li>Tablet</li>
+      <li>Books</li>
+      <li>Hoover Board</li>
+      <li>Air Fryer</li>
+ </ul>
+</body>
+</html>
