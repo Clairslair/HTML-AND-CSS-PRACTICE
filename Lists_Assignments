@@ -7,6 +7,7 @@
 	<title>Organzied vs Unorganized</title>
 </head>
 <body>
+<h3>Bill List</h3>
 <ol> 
       <li>Light Bill</li>
       <li>Gas Bill</li>
@@ -14,7 +15,7 @@
       <li>Eletric Bill</li>
       <li>Insurance Bill</li>
  </ol>
- 
+ <h3>Wish List</h3>
  <ul>
       <li>Bike</li>
       <li>Tablet</li>
